@@ -23,7 +23,7 @@ print("The data type of value '192.' is:", type(192.))
 # {data_type}() function casts the input into the specified data type (eg.str(x))
 print("\nThe input '\"2\"' when casted into a float is:", float("2"))
 print("The input '25.3' when casted into a boolean is:", bool(25.3))
-print("The input '3.6' when casted into an integer is:", int(3.63))
+print("The input '3.63' when casted into an integer is:", int(3.63))
 
 # round() function rounds input to decimal places specified (negative d.p. are valid)
 print("\nThe input '122.4516' when rounded down to -1 d.p. is:", round(122.4516,-1))

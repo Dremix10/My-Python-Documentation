@@ -1,7 +1,7 @@
 print("***Read important theory comments at beginning of code***\n")
 # data structure theory: mutability and order
-# an object is mutable if it can be modified after it is created (string are immutable)
-# an object is ordered if the order of its elements matter and this is used to be able to access its elements based on indexing/order (strings are ordered)
+# an object is mutable if it can be modified after it is created (strings are immutable)
+# an object is ordered if the order of its elements matters and this is used to be able to access its elements based on indexing/order (strings are ordered)
 
 # lists follow
 print("-> Lists:\n\n")
